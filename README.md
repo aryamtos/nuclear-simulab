@@ -11,7 +11,14 @@
 ![fissao](https://user-images.githubusercontent.com/46492977/99749806-e9862400-2abd-11eb-8ec6-2dcd056eae4f.gif)
 
 
-🚀 
+ <h1> 🚀 Especificações</h1>
+ # 1.Decaimento
+ <p>No projeto são abordados os três tipos de decaimento, para uma melhor visualização de como ocorre os tipos de decaimento para fins didáticos</p>
+<ul>
+  <li> Decaimento Alfa</li>
+  <li> Decaimento Beta</li>
+  <li> Decaimento Gama</li>
+</ul>
 
 
 
