@@ -27,6 +27,9 @@
   <li> Tempo Meia Vida</li>
 </ul>
 
+<h2 align="center">Tempo Meia Vida</h2>
+
+![tempo_meia_vida](https://user-images.githubusercontent.com/46492977/99752926-0de4ff00-2ac4-11eb-93bd-6a8a48c32f64.gif)
 
 
 
